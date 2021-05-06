@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m studying System Analysis at Federal Institute of São Paulo
+- 🔭 I’m currently working at Keyrus
 - 🌱 I’m currently learning Angular, Spring, HTML, CSS, Javascript
-- 🤔 I’m looking for a job opportunity as an intern
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...

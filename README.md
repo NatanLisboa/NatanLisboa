@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Keyrus
-- 🌱 I’m currently learning Angular, Spring, HTML, CSS, Javascript
+- 🔭 I’m currently working as a software developer
+- 🌱 I’m currently learning Spring, HTML, CSS, Javascript, in order to master the development stack Angular/Java
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a software developer
-- 🌱 I’m currently learning Spring, HTML, CSS and Javascript, in order to master the development stack Angular/Java soon
+- 🌱 I’m currently going deeper into Spring study, in order to master Java back-end development stack 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...

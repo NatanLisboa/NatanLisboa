@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a software developer
+- 🔭 I’m a brazilian software developer
 - 🌱 I’m currently going deeper into Spring study, in order to master Java back-end development stack 
 <!--
 - 👯 I’m looking to collaborate on ...
